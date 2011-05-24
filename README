@@ -1,1 +1,5 @@
-This repository contains files, heapdumps etc, which are related to Jenkins issues
+This branch contains files for issue https://issues.jenkins-ci.org/browse/JENKINS-9609
+
+heapdump-srv-nl-crd03.vanenburg.com-20110523_083834.hprof.7z contains a heapdump of the master. It has 1000+ Socket implementations instantiated
+
+
